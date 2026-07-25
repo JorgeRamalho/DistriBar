@@ -1,8 +1,8 @@
-📌 ## Distribar - A sua distriba 
+📌 ## Distribar 🍻 - A sua distriba 
 
 🌐 ## Website Link do projeto online: https://distribar.vercel.app/
 
-📂 ## Repositório: https://github.com/JorgeRamalho/Distribar
+📂 ## Repositório: https://github.com/JorgeRamalho/Distribar.git
 
 💻 ## Tecnologias
 
@@ -12,7 +12,6 @@ Fotos e Imaganes Vídeos Layout Website Style
 
 📠 ## Como executar git clone 
 ... npm install npm run dev
-
 
 📄
 💿 ## Autor: Jorge R. Barbosa 💼 LinkedIn: https://www.linkedin.com/in/jorge-r-barbosa-aabb0417b/ 
