@@ -2,7 +2,7 @@
 
 🌐 ## Website Link do projeto online: https://distribar.vercel.app/
 
-📂 ## Repositório: https://github.com/JorgeRamalho/Distribar.git
+📂 ## Repositório: https://github.com/JorgeRamalho/DistriBar
 
 💻 ## Tecnologias
 
